@@ -1,0 +1,193 @@
+void plastic Wall-Ceiling
+0
+0
+5 0.9 0.9 0.9 0.0 0.0
+
+void plastic Floor
+0
+0
+5 0.2 0.2 0.2 0.0 0.0
+
+void plastic Desk
+0
+0
+5 0.6 0.6 0.6 0.0 0.0
+
+void plastic Screen
+0
+0
+5 0.1 0.1 0.1 0.0 0.0
+
+void plastic Shading
+0
+0
+5 0.55 0.55 0.55 0.0 0.0
+
+void plastic ground
+0
+0
+5 0.3 0.3 0.3 0.0 0.0
+
+void plastic Warema_Blinds
+0
+0
+5 0.85 0.85 0.85 0.0 0.05
+
+############################################
+# Glazing produced by Radiance glaze script
+# $Revision$
+# Loaded: LLGlasses.db
+# Mon Dec 18 10:47:37 CET 2017
+# Material surface normal points to interior
+# Number of panes in system: 2
+# Exterior surface s1 type: Clear-Float-Glass-8
+# Inner surface s2 type: SageGlass-8905
+# Inner surface s3 type: Cardinal
+# Interior surface s4 type: Clear-Float-Glass-8
+# Exterior normal hemispherical reflectance: 0.160661531
+# Interior normal hemispherical reflectance: 0.129405804
+# Normal hemispherical transmittance: 0.553981928
+#
+void BRTDfunc 8905_Cardinal
+10
+if(Rdot,cr(fr(0.060),ft(0.789),fr(0.086)),cr(fr(0.119),ft(0.666),fr(0.071)))
+if(Rdot,cr(fr(0.077),ft(0.845),fr(0.08)),cr(fr(0.12),ft(0.69),fr(0.091)))
+if(Rdot,cr(fr(0.113),ft(0.767),fr(0.058)),cr(fr(0.144),ft(0.502),fr(0.116)))
+ft(0.789)*ft(0.666)
+ft(0.845)*ft(0.69)
+ft(0.767)*ft(0.502)
+	0 0 0
+	glaze2.cal
+0
+9
+	0 0 0
+	0 0 0
+	0 0 0
+	
+
+############################################
+# Glazing produced by Radiance glaze script
+# $Revision$
+# Loaded: LLGlasses.db
+# Mon Dec 18 10:57:35 CET 2017
+# Material surface normal points to interior
+# Number of panes in system: 2
+# Exterior surface s1 type: Clear-Float-Glass-8
+# Inner surface s2 type: SageGlass-8906
+# Inner surface s3 type: Cardinal
+# Interior surface s4 type: Clear-Float-Glass-8
+# Exterior normal hemispherical reflectance: 0.105007605
+# Interior normal hemispherical reflectance: 0.085935012
+# Normal hemispherical transmittance: 0.163107917
+#
+void BRTDfunc 8906_Cardinal
+10
+if(Rdot,cr(fr(0.060),ft(0.789),fr(0.028)),cr(fr(0.087),ft(0.154),fr(0.071)))
+if(Rdot,cr(fr(0.077),ft(0.845),fr(0.012)),cr(fr(0.105),ft(0.216),fr(0.091)))
+if(Rdot,cr(fr(0.113),ft(0.767),fr(0.013)),cr(fr(0.126),ft(0.187),fr(0.116)))
+ft(0.789)*ft(0.154)
+ft(0.845)*ft(0.216)
+ft(0.767)*ft(0.187)
+	0 0 0
+	glaze2.cal
+0
+9
+	0 0 0
+	0 0 0
+	0 0 0
+	
+
+############################################
+# Glazing produced by Radiance glaze script
+# $Revision$
+# Loaded: LLGlasses.db
+# Mon Dec 18 10:58:24 CET 2017
+# Material surface normal points to interior
+# Number of panes in system: 2
+# Exterior surface s1 type: Clear-Float-Glass-8
+# Inner surface s2 type: SageGlass-8908
+# Inner surface s3 type: Cardinal
+# Interior surface s4 type: Clear-Float-Glass-8
+# Exterior normal hemispherical reflectance: 0.10135897
+# Interior normal hemispherical reflectance: 0.0824800865
+# Normal hemispherical transmittance: 0.0529006454
+#
+void BRTDfunc 8908_Cardinal
+10
+if(Rdot,cr(fr(0.060),ft(0.789),fr(0.025)),cr(fr(0.085),ft(0.034),fr(0.071)))
+if(Rdot,cr(fr(0.077),ft(0.845),fr(0.006)),cr(fr(0.105),ft(0.074),fr(0.091)))
+if(Rdot,cr(fr(0.113),ft(0.767),fr(0.009)),cr(fr(0.125),ft(0.085),fr(0.116)))
+ft(0.789)*ft(0.034)
+ft(0.845)*ft(0.074)
+ft(0.767)*ft(0.085)
+	0 0 0
+	glaze2.cal
+0
+9
+	0 0 0
+	0 0 0
+	0 0 0
+	
+
+############################################
+# Glazing produced by Radiance glaze script
+# $Revision$
+# Loaded: LLGlasses.db
+# Mon Dec 18 10:59:16 CET 2017
+# Material surface normal points to interior
+# Number of panes in system: 2
+# Exterior surface s1 type: Clear-Float-Glass-8
+# Inner surface s2 type: SageGlass-8909
+# Inner surface s3 type: Cardinal
+# Interior surface s4 type: Clear-Float-Glass-8
+# Exterior normal hemispherical reflectance: 0.113410576
+# Interior normal hemispherical reflectance: 0.084059481
+# Normal hemispherical transmittance: 0.00908011545
+#
+void BRTDfunc 8909_Cardinal
+10
+if(Rdot,cr(fr(0.060),ft(0.789),fr(0.03)),cr(fr(0.099),ft(0.004),fr(0.071)))
+if(Rdot,cr(fr(0.077),ft(0.845),fr(0.007)),cr(fr(0.117),ft(0.013),fr(0.091)))
+if(Rdot,cr(fr(0.113),ft(0.767),fr(0.014)),cr(fr(0.135),ft(0.019),fr(0.116)))
+ft(0.789)*ft(0.004)
+ft(0.845)*ft(0.013)
+ft(0.767)*ft(0.019)
+	0 0 0
+	glaze2.cal
+0
+9
+	0 0 0
+	0 0 0
+	0 0 0
+
+
+############################################
+# Glazing produced by Radiance glaze script
+# $Revision$
+# Loaded: clearGlasses.db
+# Fri Feb  9 16:20:09 CET 2018
+# Material surface normal points to interior
+# Number of panes in system: 2
+# Exterior surface s1 type: Clear-Float-Glass-8
+# Inner surface s2 type: CARDINAL-66-0.76
+# Inner surface s3 type: Clear-Float-Glass-8
+# Interior surface s4 type: Clear-Float-Glass-8
+# Exterior normal hemispherical reflectance: 0.131618318
+# Interior normal hemispherical reflectance: 0.14777451
+# Normal hemispherical transmittance: 0.71017559
+#
+void BRTDfunc cardinal_float
+10
+if(Rdot,cr(fr(0.078),ft(0.824),fr(0.071)),cr(fr(0.06),ft(0.789),fr(0.079)))
+if(Rdot,cr(fr(0.085),ft(0.876),fr(0.091)),cr(fr(0.077),ft(0.845),fr(0.085)))
+if(Rdot,cr(fr(0.084),ft(0.853),fr(0.116)),cr(fr(0.113),ft(0.767),fr(0.085)))
+ft(0.824)*ft(0.789)
+ft(0.876)*ft(0.845)
+ft(0.853)*ft(0.767)
+	0 0 0
+	glaze2.cal
+0
+9
+	0 0 0
+	0 0 0
+	0 0 0
